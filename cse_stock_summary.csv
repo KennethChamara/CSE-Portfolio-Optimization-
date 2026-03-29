@@ -1,0 +1,97 @@
+Ticker,Ticker_YF,Company,Sector,Annual_Return_Pct,Annual_Volatility_Pct,Sharpe_Individual
+COMB,COMB-N0000.CM,Commercial Bank of Ceylon PLC,Banking & Finance,21.6,29.09,0.399
+HNB,HNB-N0000.CM,Hatton National Bank PLC,Banking & Finance,22.64,30.24,0.418
+SAMP,SAMP-N0000.CM,Sampath Bank PLC,Banking & Finance,27.59,31.47,0.559
+LOLC,LOLC-N0000.CM,LOLC Holdings PLC,Banking & Finance,31.07,52.43,0.402
+LOFC,LOFC-N0000.CM,LOLC Finance PLC,Banking & Finance,28.16,71.04,0.256
+NTB,NTB-N0000.CM,Nations Trust Bank PLC,Banking & Finance,28.63,29.09,0.64
+LFIN,LFIN-N0000.CM,LB Finance PLC,Banking & Finance,34.52,37.44,0.655
+DFCC,DFCC-N0000.CM,DFCC Bank PLC,Banking & Finance,16.94,33.92,0.205
+NDB,NDB-N0000.CM,National Development Bank PLC,Banking & Finance,14.84,32.93,0.147
+SEYB,SEYB-N0000.CM,Seylan Bank PLC,Banking & Finance,22.94,40.36,0.321
+CFIN,CFIN-N0000.CM,Central Finance Company PLC,Banking & Finance,24.28,34.18,0.418
+PLC,PLC-N0000.CM,People's Leasing & Finance PLC,Banking & Finance,16.97,31.79,0.219
+COCR,COCR-N0000.CM,Commercial Credit and Finance PLC,Banking & Finance,41.17,54.26,0.574
+PABC,PABC-N0000.CM,Pan Asia Banking Corporation PLC,Banking & Finance,33.4,44.03,0.532
+VFIN,VFIN-N0000.CM,Vallibel Finance PLC,Banking & Finance,41.88,51.3,0.621
+CFVF,CFVF-N0000.CM,First Capital Holdings PLC,Banking & Finance,53.58,47.66,0.914
+HNBF,HNBF-N0000.CM,HNB Finance PLC,Banking & Finance,19.13,55.8,0.164
+MERC,MERC-N0000.CM,Mercantile Investments and Finance PLC,Banking & Finance,5.34,32.94,-0.141
+CALF,CALF-N0000.CM,Dialog Finance PLC,Banking & Finance,30.52,61.07,0.336
+UBC,UBC-N0000.CM,Union Bank of Colombo PLC,Banking & Finance,10.38,40.59,0.009
+ABL,ABL-N0000.CM,Amana Bank PLC,Banking & Finance,18.89,47.74,0.186
+CDB,CDB-N0000.CM,Citizens Development Business Finance PLC,Banking & Finance,34.41,49.32,0.495
+SFCL,SFCL-N0000.CM,Senkadagala Finance PLC,Banking & Finance,57.88,59.97,0.798
+GUAR,GUAR-N0000.CM,Ceylon Guardian Investment Trust PLC,Banking & Finance,29.46,48.48,0.401
+SFIN,SFIN-N0000.CM,Singer Finance (Lanka) PLC,Banking & Finance,34.14,43.4,0.556
+JKH,JKH-N0000.CM,John Keells Holdings PLC,Diversified,-1.1,30.68,-0.362
+MELS,MELS-N0000.CM,Melstacorp PLC,Diversified,36.32,37.29,0.706
+HAYL,HAYL-N0000.CM,Hayleys PLC,Diversified,50.47,44.76,0.904
+CTHR,CTHR-N0000.CM,C T Holdings PLC,Diversified,28.38,28.32,0.649
+CARS,CARS-N0000.CM,Carson Cumberbatch PLC,Diversified,30.8,43.96,0.473
+VONE,VONE-N0000.CM,Vallibel One PLC,Diversified,43.45,53.03,0.631
+HHL,HHL-N0000.CM,Hemas Holdings PLC,Diversified,8.38,32.62,-0.05
+BUKI,BUKI-N0000.CM,Bukit Darah PLC,Diversified,31.41,44.9,0.477
+BIL,BIL-N0000.CM,Browns Investments PLC,Diversified,22.74,58.85,0.216
+RICH,RICH-N0000.CM,Richard Pieris and Company PLC,Diversified,32.69,42.32,0.536
+SUN,SUN-N0000.CM,Sunshine Holdings PLC,Diversified,35.82,45.72,0.565
+SPEN,SPEN-N0000.CM,Aitken Spence PLC,Diversified,27.88,34.04,0.525
+CIC,CIC-N0000.CM,CIC Holdings PLC,Diversified,40.81,49.91,0.617
+GREG,GREG-N0000.CM,Ambeon Holdings PLC,Diversified,51.17,46.02,0.895
+TAP,TAP-N0000.CM,Ambeon Capital PLC,Diversified,55.08,69.7,0.647
+BRWN,BRWN-N0000.CM,Brown and Company PLC,Diversified,28.23,56.71,0.321
+EBCR,EBCR-N0000.CM,E.B. Creasy & Company PLC,Diversified,44.77,56.64,0.614
+CTC,CTC-N0000.CM,Ceylon Tobacco Company PLC,Food & Beverages,20.1,23.19,0.436
+DIST,DIST-N0000.CM,Distilleries Company of Sri Lanka PLC,Food & Beverages,31.38,29.39,0.727
+CARG,CARG-N0000.CM,Cargills (Ceylon) PLC,Food & Beverages,27.8,25.38,0.701
+LION,LION-N0000.CM,Lion Brewery (Ceylon) PLC,Food & Beverages,22.69,26.29,0.483
+CCS,CCS-N0000.CM,Ceylon Cold Stores PLC,Food & Beverages,13.61,32.42,0.111
+BREW,BREW-N0000.CM,Ceylon Beverage Holdings PLC,Food & Beverages,27.08,37.6,0.454
+GRAN,GRAN-N0000.CM,Ceylon Grain Elevators PLC,Food & Beverages,43.03,39.82,0.829
+LMF,LMF-N0000.CM,Lanka Milk Foods (CWE) PLC,Food & Beverages,40.7,42.61,0.72
+LAMB,LAMB-N0000.CM,Kotmale Holdings PLC,Food & Beverages,36.42,42.07,0.628
+TAFL,TAFL-N0000.CM,Three Acre Farms PLC,Food & Beverages,40.87,39.88,0.774
+DIAL,DIAL-N0000.CM,Dialog Axiata PLC,Telecommunications,22.63,23.82,0.53
+SLTL,SLTL-N0000.CM,Sri Lanka Telecom PLC,Telecommunications,26.99,45.3,0.375
+ACL,ACL-N0000.CM,ACL Cables PLC,Manufacturing,37.67,51.96,0.532
+RCL,RCL-N0000.CM,Royal Ceramics Lanka PLC,Manufacturing,42.59,48.56,0.671
+GLAS,GLAS-N0000.CM,PGP Glass Ceylon PLC,Manufacturing,53.18,45.7,0.945
+TKYO,TKYO-N0000.CM,Tokyo Cement Company (Lanka) PLC,Manufacturing,26.07,43.39,0.37
+HAYC,HAYC-N0000.CM,Haycarb PLC,Manufacturing,41.29,41.39,0.756
+DIPD,DIPD-N0000.CM,Dipped Products PLC,Manufacturing,46.91,46.57,0.793
+KCAB,KCAB-N0000.CM,Kelani Cables PLC,Manufacturing,48.25,58.53,0.653
+TJL,TJL-N0000.CM,Teejay Lanka PLC,Manufacturing,5.49,28.24,-0.16
+JAT,JAT-N0000.CM,JAT Holdings PLC,Manufacturing,19.98,37.01,0.27
+SIRA,SIRA-N0000.CM,Sierra Cables PLC,Manufacturing,50.59,54.54,0.744
+MGT,MGT-N0000.CM,Hayleys Fabric PLC,Manufacturing,37.89,44.44,0.628
+SINS,SINS-N0000.CM,Singer (Sri Lanka) PLC,Consumer Goods,45.48,48.17,0.737
+UML,UML-N0000.CM,United Motors Lanka PLC,Consumer Goods,35.55,47.11,0.542
+DIMO,DIMO-N0000.CM,Diesel & Motor Engineering PLC,Consumer Goods,43.81,53.42,0.633
+LIOC,LIOC-N0000.CM,Lanka IOC PLC,Energy,46.47,52.94,0.689
+WIND,WIND-N0000.CM,WindForce PLC,Energy,19.73,26.12,0.373
+LLUB,LLUB-N0000.CM,Chevron Lubricants Lanka PLC,Energy,27.15,28.22,0.608
+LGL,LGL-N0000.CM,LAUGFS Gas PLC,Energy,36.53,59.25,0.448
+VLL,VLL-N0000.CM,Vidullanka PLC,Energy,35.5,39.08,0.652
+CINS,CINS-N0000.CM,Ceylinco Holdings PLC,Insurance,13.14,42.71,0.073
+UAL,UAL-N0000.CM,Union Assurance PLC,Insurance,28.84,44.05,0.428
+JINS,JINS-N0000.CM,Janashakthi Insurance PLC,Insurance,41.65,44.2,0.716
+AAIC,AAIC-N0000.CM,Softlogic Life Insurance PLC,Insurance,34.32,61.91,0.393
+HASU,HASU-N0000.CM,HNB Assurance PLC,Insurance,23.92,34.7,0.401
+AEL,AEL-N0000.CM,Access Engineering PLC,Construction,27.95,36.59,0.491
+OSEA,OSEA-N0000.CM,Overseas Realty (Ceylon) PLC,Real Estate,25.54,34.32,0.453
+PLR,PLR-N0000.CM,Prime Lands Residencies PLC,Real Estate,29.17,41.36,0.464
+RIL,RIL-N0000.CM,R I L Property PLC,Real Estate,40.87,52.9,0.584
+CFLB,CFLB-N0000.CM,The Colombo Fort Land & Building PLC,Real Estate,43.42,56.18,0.595
+WATA,WATA-N0000.CM,Watawala Plantations PLC,Plantations,39.85,48.65,0.614
+NAMU,NAMU-N0000.CM,Namunukula Plantations PLC,Plantations,44.4,50.41,0.682
+CTEA,CTEA-N0000.CM,Dilmah Ceylon Tea Company PLC,Plantations,19.39,31.86,0.295
+ASIR,ASIR-N0000.CM,Asiri Hospital Holdings PLC,Healthcare,17.74,41.14,0.188
+LHCL,LHCL-N0000.CM,The Lanka Hospitals Corporation PLC,Healthcare,24.89,40.5,0.367
+NHL,NHL-N0000.CM,Nawaloka Hospitals PLC,Healthcare,28.12,51.49,0.352
+AHUN,AHUN-N0000.CM,Aitken Spence Hotel Holdings PLC,Hotels & Travel,30.23,41.69,0.485
+PALM,PALM-N0000.CM,Palm Garden Hotels PLC,Hotels & Travel,41.58,74.45,0.424
+KHL,KHL-N0000.CM,John Keells Hotels PLC,Hotels & Travel,17.97,39.42,0.202
+AHPL,AHPL-N0000.CM,Asian Hotels and Properties PLC,Hotels & Travel,16.36,44.13,0.144
+HUNA,HUNA-N0000.CM,Hunas Holdings PLC,Hotels & Travel,67.63,70.42,0.818
+EDEN,EDEN-N0000.CM,Eden Hotel Lanka PLC,Hotels & Travel,15.89,56.7,0.104
+DOCK,DOCK-N0000.CM,Colombo Dockyard PLC,Services,44.85,61.73,0.565
