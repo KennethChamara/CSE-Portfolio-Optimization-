@@ -32,9 +32,6 @@ jupyter notebook portfolio_optimization.ipynb
 
 Run all cells sequentially. No API keys or external data downloads required.
 
-## Dataset
-
-Synthetic universe of 30 assets across 7 sectors, calibrated to real S&P 500 sector characteristics (returns, volatilities, correlations). See Section 3 of the notebook for details and justification.
 
 ## Key Results
 
@@ -49,5 +46,5 @@ Synthetic universe of 30 assets across 7 sectors, calibrated to real S&P 500 sec
 
 ## Team
 
-- Student 1: [Name] — Problem formulation, B&B implementation, report
-- Student 2: [Name] — GA implementation, scalability experiments, video
+- Student 1: MS25946376 :Udari Liyanage — Problem formulation, B&B implementation, report
+- Student 2: MS25946444 :Kenneth Jayaweera — GA implementation, scalability experiments, video
