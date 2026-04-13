@@ -46,5 +46,5 @@ Run all cells sequentially. No API keys or external data downloads required.
 
 ## Team
 
-- Student 1: MS25946376 :Udari Liyanage — Problem formulation, B&B implementation, report
-- Student 2: MS25946444 :Kenneth Jayaweera — GA implementation, scalability experiments, video
+- Student 1: MS25946376 :Udari Liyanage — , B&B implementation, scalability experiments, report
+- Student 2: MS25946444 :Kenneth Jayaweera — Problem formulation, GA implementation, video

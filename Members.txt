@@ -1,5 +1,11 @@
 MS25946444
 J.K.K. Chamara
 
+
 MS25946376
 G.L.U. Kaushalya
+
+- Member 1: MS25946376 :Udari Liyanage — B&B implementation, scalability experiments, report
+- Member 2: MS25946444 :Kenneth Jayaweera — Problem formulation, GA implementation, video
+
+Please note that both members worked on initial work including Dataset Creation upto Report and Video.

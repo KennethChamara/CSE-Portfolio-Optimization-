@@ -1,3 +1,4 @@
 yfinance API: https://finance.yahoo.com
 Video Link: https://youtu.be/BU6dlj4mtWM
 Github Link: https://github.com/KennethChamara/CSE-Portfolio-Optimization-/tree/main
+Turntin: 2%
